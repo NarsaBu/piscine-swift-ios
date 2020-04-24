@@ -23,4 +23,5 @@ let locations : [Pin] = [
     Pin(title: "42", subtitle: "My school`s parent", coordinate: CLLocationCoordinate2D(latitude: 48.896928, longitude: 2.318345)),
     Pin(title: "School 21", subtitle: "My school", coordinate: CLLocationCoordinate2D(latitude: 55.7970746083292, longitude: 37.57963120937348)),
     Pin(title: "Home", subtitle: "My House", coordinate: CLLocationCoordinate2D(latitude: 55.8968, longitude: 37.4813)),
+    Pin(title: "Santa Maria di Licodia", subtitle: "Mothership of Diana", coordinate: CLLocationCoordinate2D(latitude: 37.6169016, longitude: 14.8868068)),
 ]
